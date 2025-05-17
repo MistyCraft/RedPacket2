@@ -1,5 +1,5 @@
 # RedPacket2
-一个移植Minecraft1.21+版本的手气红包插件 原作者已经3年未更新了  
+一个移植Minecraft1.21+版本的红包插件 原作者已经3年未更新了  
 非原作者所移植！这里访问[原作者存储库](https://github.com/sandtechnology/RedPacket)  
 
 目前测试能用的版本：Paper1.21  
